@@ -1,5 +1,5 @@
 <?php
-    $conn = pg_connect("host=187.160.239.37 port=5432 dbname=feria user=postgres password=Eisa2022."); 
+    $conn = pg_connect(""); 
 
     date_default_timezone_set('America/Mexico_City');
 
